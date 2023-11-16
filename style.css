@@ -1,0 +1,26 @@
+* {
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
+img{
+    width: 100%;
+}
+
+h1 {
+    font-family: 'Libre Baskerville', serif;
+    text-transform: uppercase;
+}
+
+p{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+}
+
+#image-container {
+    margin-top: 15%;
+    width: 50%;
+    margin-left: 25%;
+    border: 2px solid white;
+    padding: 0px;
+}
